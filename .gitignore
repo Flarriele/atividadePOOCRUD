@@ -1,0 +1,12 @@
+# Arquivos e pastas gerados pelo Eclipse
+.classpath
+.project
+.settings/
+*.launch
+*.sublime-project
+*.sublime-workspace
+
+# Pastas de saída da compilação (binários)
+bin/
+target/        # Para projetos Maven
+build/         # Para projetos Gradle
